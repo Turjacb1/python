@@ -1,0 +1,22 @@
+aaa="turja chakraborty"
+
+print(aaa[4])#a
+
+
+print(len(aaa)) #17
+
+
+print (aaa[7:11]) #hakr
+
+print(aaa[-4:-2])
+
+print(aaa.endswith("ty")) #true
+
+print(aaa.capitalize())#Turja chakraborty #first word capital
+
+print(aaa.replace("turja","tanay")) #tanay chakraborty
+
+print(aaa.find("k")) #8
+
+print(aaa.count("r")) ##howmay r in this sentence=3
+
